@@ -1,6 +1,7 @@
 # deliveryproject
 
 A new Flutter project.
+깃 연습용 입니다.
 
 ## Getting Started
 
